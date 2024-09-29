@@ -22,7 +22,7 @@ En este respositorio se encontrara la entrega de tareas y proyectos CNYT cada un
     * [HermitianUnitaryTensorCircuits](https://github.com/juanandres003/CNYT-JAAB/blob/main/Primer%20Tercio/Taller%20espacios%20vectoriales/HermitianUnitaryTensorCircuits/HermitianUnitaryTensorCircuits/TallerEsp.Vect-Hermitian-Unitary-Tensor-Circuits.ipynb)
   
   + Segundo Tercio
-    - [Laboratorio doble rendija(Informe)](https://github.com/juanandres003/CNYT-JAAB/blob/main/Segundo%20Tercio/Proyecto%20doble%20rendija/Doble_rendija.ipynb)
+    - [Laboratorio doble rendija (Informe)](https://github.com/juanandres003/CNYT-JAAB/blob/main/Segundo%20Tercio/Proyecto%20doble%20rendija/Doble_rendija.ipynb)
     - [Taller Clasic To Quantum](https://github.com/juanandres003/CNYT-JAAB/blob/main/Segundo%20Tercio/ClasicToQuantum/ClasicToQuantum/TallerClasicToQuantum.ipynb)
 
 ## Autor
