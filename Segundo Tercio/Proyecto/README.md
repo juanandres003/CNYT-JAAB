@@ -73,7 +73,7 @@ U_1 = \begin{bmatrix}
 \end{bmatrix}
 $$
 
-and
+y
 
 $$
 U_2 = \begin{bmatrix}
