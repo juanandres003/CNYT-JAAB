@@ -58,7 +58,7 @@ y
 $$
 U_2 = \begin{bmatrix}
     \frac{\sqrt{2}}{2} & \frac{\sqrt{2}}{2} \\
-    \frac{\sqrt{2}}{2} & -\frac{\sqrt{2}}{2}
+    \frac{\sqrt{2}}{2} & -\frac{\sqrt{2}}{2} \\
 \end{bmatrix}
 $$
 
