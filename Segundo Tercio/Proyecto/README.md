@@ -74,6 +74,7 @@ U_1 = \begin{bmatrix}
 $$
 
 and
+
 $$
 U_2 = \begin{bmatrix}
 \frac{\sqrt{2}}{2} & \frac{\sqrt{2}}{2}\\
